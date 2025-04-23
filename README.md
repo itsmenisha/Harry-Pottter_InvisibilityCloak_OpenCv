@@ -1,5 +1,7 @@
 # 🧥 Invisibility Cloak using OpenCV and Python
+
 [![Watch the demo](https://img.youtube.com/vi/RCz6ZBfFdtM/maxresdefault.jpg)](https://youtu.be/RCz6ZBfFdtM)
+
 
 This project uses **Python**, **OpenCV**, and **NumPy** to create a real-time invisibility cloak effect by detecting red-colored regions in a webcam feed and replacing them with a pre-captured background.
 
