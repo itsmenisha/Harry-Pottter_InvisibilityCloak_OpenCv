@@ -1,4 +1,4 @@
-# 🧥 Invisibility Cloak using OpenCV and Python
+# 🧙‍♂️ Invisibility Cloak using OpenCV and Python
 
 [![Watch the video](https://img.youtube.com/vi/RCz6ZBfFdtM/hqdefault.jpg)](https://youtu.be/RCz6ZBfFdtM)
 
